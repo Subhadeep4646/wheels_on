@@ -1,0 +1,118 @@
+export const manufacturers = [
+  "Aspen",
+  "Bravo",
+  "Cortez",
+  "Delta",
+  "Echo",
+  "Foxtrot",
+  "Gulf",
+  "Hotel",
+  "India",
+  "Juliet",
+  "Kilo",
+  "Lima",
+  "Mike",
+  "November",
+  "Oscar",
+  "Papa",
+  "Quebec",
+  "Romeo",
+  "Sierra",
+  "Tango",
+  "Uniform",
+  "Victor",
+  "Whiskey",
+  "X-ray",
+  "Yankee",
+  "Zulu",
+  "Alpha",
+  "Beta",
+  "Gamma",
+  "Delta",
+  "Epsilon",
+  "Zeta",
+  "Eta",
+  "Theta",
+  "Iota",
+  "Kappa",
+  "Lambda",
+  "Mu",
+  "Nu",
+  "Xi",
+  "Omicron",
+  "Pi",
+  "Rho",
+  "Sigma",
+];
+
+export const yearsOfProduction = [
+  { title: "Year", value: "" },
+  { title: "2010", value: "2010" },
+  { title: "2011", value: "2011" },
+  { title: "2012", value: "2012" },
+  { title: "2013", value: "2013" },
+  { title: "2014", value: "2014" },
+  { title: "2015", value: "2015" },
+  { title: "2016", value: "2016" },
+  { title: "2017", value: "2017" },
+  { title: "2018", value: "2018" },
+  { title: "2019", value: "2019" },
+  { title: "2020", value: "2020" },
+  { title: "2021", value: "2021" },
+  { title: "2022", value: "2022" },
+  { title: "2023", value: "2023" },
+  { title: "2024", value: "2024" },
+];
+
+export const fuels = [
+  {
+    title: "Fuel",
+    value: "",
+  },
+  {
+    title: "Petrol",
+    value: "Petrol",
+  },
+  {
+    title: "Diesel",
+    value: "Diesel",
+  },
+  {
+    title: "Electric",
+    value: "Electric",
+  },
+  {
+    title: "Hybrid",
+    value: "Hybrid",
+  },
+];
+
+export const footerLinks = [
+  {
+    title: "Explore",
+    links: [
+      { title: "Our Mission", url: "/" },
+      { title: "Success Stories", url: "/" },
+      { title: "Partnerships", url: "/" },
+      { title: "Corporate Relations", url: "/" },
+    ],
+  },
+  {
+    title: "Resources",
+    links: [
+      { title: "News & Events", url: "/" },
+      { title: "Articles", url: "/" },
+      { title: "Webinars", url: "/" },
+      { title: "Referral Program", url: "/" },
+    ],
+  },
+  {
+    title: "Connect",
+    links: [
+      { title: "Slack", url: "/" },
+      { title: "Instagram", url: "/" },
+      { title: "Twitter", url: "/" },
+      { title: "LinkedIn", url: "/" },
+    ],
+  },
+];
